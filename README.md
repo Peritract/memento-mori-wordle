@@ -2,6 +2,8 @@
 
 This is Wordle, but the answer is always "death".
 
+[Play it here](peritract.github.io/memento-mori-wordle/).
+
 ## Creation
 
 I did not actually write this myself from scratch; the code in this repository is just an edited version of [Josh Wardle](https://twitter.com/powerlanguish)'s original code. In the unlikely event of any credit, it all goes to him.
