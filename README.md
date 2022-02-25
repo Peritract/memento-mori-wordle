@@ -2,7 +2,7 @@
 
 This is Wordle, but the answer is always "death".
 
-[Play it here](peritract.github.io/memento-mori-wordle/).
+[Play it here](https://peritract.github.io/memento-mori-wordle/).
 
 ## Creation
 
